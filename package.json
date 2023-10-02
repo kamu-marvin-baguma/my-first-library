@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.1",
+  "description": "a simple library of js that makes the first letters of names",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marvin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
