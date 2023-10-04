@@ -1,15 +1,22 @@
 {
   "name": "myapp",
   "version": "1.0.1",
-  "description": "a simple library of js that makes the first letters of names",
+  "description": "A simple js function that makes the first letters Capitalised of a given string or sentence case",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "marvin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamu-marvin-baguma/my-first-library.git"
+  },
+  "keywords": [
+    "marvin-baguma-kamu"
+  ],
+  "author": "marvin-baguma",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "bugs": {
+    "url": "https://github.com/kamu-marvin-baguma/my-first-library/issues"
+  },
+  "homepage": "https://github.com/kamu-marvin-baguma/my-first-library#readme"
 }
